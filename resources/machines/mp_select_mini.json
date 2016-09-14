@@ -5,7 +5,6 @@
     "manufacturer": "Other",
     "author": "Bob Ryan",
     "icon": "icon_ultimaker2.png",
-    "platform": "mp_select_mini.stl",
     "file_formats": "text/x-gcode",
     "inherits": "fdmprinter.json",
 
